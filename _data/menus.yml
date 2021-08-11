@@ -1,5 +1,9 @@
 ---
 main:
+- url: ya
+  weight: 1
+  parent: home
+  title: YEA
 - identifier: home
   url: "/"
   weight: 1

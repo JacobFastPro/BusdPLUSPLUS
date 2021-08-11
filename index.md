@@ -37,11 +37,6 @@ page_sections:
     slug: ''
     content: "<strong>BUSD+</strong> want's to be a long lasting token. That's why
       we've got a marketing wallet, and a marketing plan. "
-- template: 1-column-text
-  block: one-column-1
-  headline: ''
-  slug: ''
-  content: ''
 color: "#CA0000"
 headline: FUCK YOU!
 slug: ''

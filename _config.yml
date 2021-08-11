@@ -13,8 +13,7 @@ defaults:
   values:
     layout: default
 plugins:
-- |-
-  name: Jekyll Actions
-  uses: helaili/jekyll-action@2.2.0
+- helaili/jekyll-action@2.2.0
+- Jekyll Actions
 - jekyll-feed
 - jekyll-menus

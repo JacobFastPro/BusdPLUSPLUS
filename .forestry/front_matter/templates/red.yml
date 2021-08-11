@@ -17,3 +17,5 @@ fields:
     schema:
       format: html
   label: Color Red
+pages:
+- _posts/hi.md

@@ -41,5 +41,9 @@ page_sections:
     headline: NIGGER 3
     slug: "3"
     content: NIGGER
+- template: detail-content
+  block: text-1
+  headline: WHAT THE FUCK IS BUSD+
+  content: "<h1>FUCKKK YOUUU</h1>"
 
 ---

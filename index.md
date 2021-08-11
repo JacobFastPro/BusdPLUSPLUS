@@ -20,5 +20,19 @@ page_sections:
   headline: "<strong>BUSD+</strong>"
   slug: Busd+
   content: "<strong>A rewards token.</strong>"
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: 8% BUSD REWARDS
+    content: Hold <strong>BUSD+ </strong>and earn BUSD. Passively.
+    slug: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 
 ---

@@ -45,5 +45,22 @@ page_sections:
   block: text-1
   headline: WHAT THE FUCK IS BUSD+
   content: "<h1>FUCKKK YOUUU</h1>"
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: BUSD+
+  content: BUY IT OR DIE
+  slug: swag
 
 ---

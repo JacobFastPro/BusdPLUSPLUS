@@ -1,4 +1,9 @@
 ---
 label: C)P)R
 hide_body: false
-fields: []
+fields:
+- name: red
+  type: include
+  config: {}
+  template: text-column
+  label: RED

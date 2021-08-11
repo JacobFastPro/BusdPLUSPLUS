@@ -60,8 +60,8 @@ page_sections:
   - link: https://t.me/busdplus
     link_text: TELEGRAM
   cta:
-    url: ''
-    button_text: ''
+    url: https://t.me/busdplus
+    button_text: AHHH
 menu: []
 ahh: ''
 

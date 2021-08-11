@@ -30,8 +30,8 @@ page_sections:
     headline: 2% LIQUIDITY
     slug: ''
     content: <strong>BUSD+ </strong>automatically add's back to liquidity. Speaking
-      of Liquidity, have you check our<a href="Google.com" title="Locked Liquidity"
-      target="_blank"> locked liquidity?</a>
+      of Liquidity, have you check our<a href="https://mudra.website/" title="Locked
+      Liquidity" target="_blank"> locked liquidity?</a>
   col_3:
     headline: 5% MARKETING
     slug: ''

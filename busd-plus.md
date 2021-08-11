@@ -15,9 +15,10 @@ page_sections:
   media:
     image: "/uploads/2021/08/11/busdlogo.png"
     alt_text: BUSD+
-  headline: ''
-  slug: ''
-  content: ''
+  headline: BUSD + FUCKS EVERYONE YOUVE EVER MET!!!
+  slug: BUSD+
+  content: HOLY SHIT BUSD+ HOLY SHIT BUSD+HOLY SHIT BUSD+HOLY SHIT BUSD+HOLY SHIT
+    BUSD+HOLY SHIT BUSD+HOLY SHIT BUSD+
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/08/11/busdblack.png"

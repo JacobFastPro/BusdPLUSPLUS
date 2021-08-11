@@ -5,6 +5,11 @@ fields:
 - type: text
   label: Title
   name: title
+- name: menu
+  type: include
+  config: {}
+  template: menu
+  label: MENU
 - type: text
   name: layout
   label: Layout

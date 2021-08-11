@@ -3,6 +3,11 @@ layout: blocks
 title: BUSD PLUS
 date: 2021-08-11T01:06:00.000+00:00
 page_sections:
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/08/11/busdblack.png"
+  slug: FUCK
+  caption: MEEE
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/08/11/busdblack.png"

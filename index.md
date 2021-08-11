@@ -7,7 +7,7 @@ page_sections:
   block: header-1
   logo: "/uploads/2021/08/11/busdblack.png"
   navigation:
-  - link: google.com
+  - link: https://poocoin.app/
     link_text: Chart
   - link: https://t.me/BUSDplus
     link_text: Telegram

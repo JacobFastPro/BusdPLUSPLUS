@@ -21,5 +21,19 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: NIGGER
+    slug: "1"
+    content: NIGGER 1
+  col_2:
+    headline: NIGGER 2
+    slug: "2"
+    content: NIGGER 2
+  col_3:
+    headline: NIGGER 3
+    slug: "3"
+    content: NIGGER
 
 ---

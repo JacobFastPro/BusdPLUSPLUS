@@ -34,5 +34,5 @@ fields:
   - menu
 pages:
 - busd-plus.md
-- busd.md
 - drafty.md
+- index.md

@@ -2,6 +2,12 @@
 label: C)P)R
 hide_body: false
 fields:
+- name: color
+  type: color
+  label: COLOR
+  config:
+    required: false
+    color_format: Hex
 - name: red
   type: include
   config: {}

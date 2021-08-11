@@ -24,6 +24,11 @@ page_sections:
   image: "/uploads/2021/08/11/busdblack.png"
   slug: FUCK
   caption: MEEE
+- template: 1-column-text
+  block: one-column-1
+  headline: BUSD+
+  content: BUY IT OR DIE
+  slug: swag
 - template: simple-header
   block: header-3
   logo: "/uploads/2021/08/11/busdblack.png"
@@ -57,10 +62,5 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: BUSD+
-  content: BUY IT OR DIE
-  slug: swag
 
 ---

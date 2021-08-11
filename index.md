@@ -50,5 +50,19 @@ page_sections:
   block: text-1
   headline: WHAT THE FUCK IS BUSD+
   content: "<h1>FUCKKK YOUUU</h1>"
+- template: menu
+  menu: []
+  ahh: ''
+- template: navigation-header-w-button
+  block: header-2
+  logo: "/uploads/2021/08/11/busdblack.png"
+  navigation:
+  - link: https://t.me/busdplus
+    link_text: TELEGRAM
+  cta:
+    url: ''
+    button_text: ''
+menu: []
+ahh: ''
 
 ---

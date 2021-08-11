@@ -9,3 +9,8 @@ fields:
   config:
     min: 
     max: 
+- name: ahh
+  type: text
+  config:
+    required: false
+  label: AHH

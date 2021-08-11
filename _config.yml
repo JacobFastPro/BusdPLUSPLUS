@@ -14,7 +14,7 @@ defaults:
     layout: default
 plugins:
 - |-
-  - name: Jekyll Actions
-    uses: helaili/jekyll-action@2.2.0
+  name: Jekyll Actions
+  uses: helaili/jekyll-action@2.2.0
 - jekyll-feed
 - jekyll-menus

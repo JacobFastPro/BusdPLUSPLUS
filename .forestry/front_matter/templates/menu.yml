@@ -1,4 +1,11 @@
 ---
 label: MENU
 hide_body: false
-fields: []
+fields:
+- name: menu
+  type: blocks
+  label: MENU
+  template_types: []
+  config:
+    min: 
+    max: 

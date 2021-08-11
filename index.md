@@ -33,8 +33,9 @@ page_sections:
       of Liquidity, have you check our<a href="Google.com" title="Locked Liquidity"
       target="_blank"> locked liquidity?</a>
   col_3:
-    headline: ''
+    headline: 4% MARKETING
     slug: ''
-    content: ''
+    content: <strong>BUSD+</strong> want's to be a long lasting token. That's why
+      we've got a marketing wallet, and a marketing plan. <img src="https://www.siteminder.com/wp-content/uploads/2017/01/MARKETING_STRATEGY_istock.jpg">
 
 ---

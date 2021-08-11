@@ -17,8 +17,8 @@ page_sections:
   media:
     image: "/uploads/2021/08/11/busdlogo.png"
     alt_text: BUSD+
-  headline: ''
-  slug: ''
-  content: ''
+  headline: "<strong>BUSD+</strong>"
+  slug: Busd+
+  content: "<strong>A rewards token.</strong>"
 
 ---

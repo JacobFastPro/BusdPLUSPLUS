@@ -31,6 +31,11 @@ fields:
   - signup-bar
   - simple-footer
   - 4-column-footer
+- name: ad
+  type: include
+  config: {}
+  template: c-p-r
+  label: ad
 pages:
 - busd-plus.md
 - index.md

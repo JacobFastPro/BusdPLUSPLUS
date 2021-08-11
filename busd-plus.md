@@ -11,14 +11,14 @@ page_sections:
     link_text: Telegram
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   media:
     image: "/uploads/2021/08/11/busdlogo.png"
     alt_text: BUSD+
   headline: BUSD + FUCKS EVERYONE YOUVE EVER MET!!!
   slug: BUSD+
-  content: HOLY SHIT BUSD+ HOLY SHIT BUSD+HOLY SHIT BUSD+HOLY SHIT BUSD+HOLY SHIT
-    BUSD+HOLY SHIT BUSD+HOLY SHIT BUSD+
+  content: "<strong>HOLY SHIT BUSD+ HOLY SHIT BUSD+HOLY SHIT BUSD+HOLY SHIT BUSD+HOLY
+    SHIT BUSD+HOLY SHIT BUSD+HOLY SHIT BUSD+</strong>"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/08/11/busdblack.png"

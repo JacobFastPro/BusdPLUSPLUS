@@ -27,9 +27,11 @@ page_sections:
     content: Hold <strong>BUSD+ </strong>and earn BUSD. Passively.
     slug: ''
   col_2:
-    headline: ''
+    headline: 2% LIQUIDITY
     slug: ''
-    content: ''
+    content: <strong>BUSD+ </strong>automatically add's back to liquidity. Speaking
+      of Liquidity, have you check our<a href="Google.com" title="Locked Liquidity"
+      target="_blank"> locked liquidity?</a>
   col_3:
     headline: ''
     slug: ''

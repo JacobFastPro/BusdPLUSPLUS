@@ -35,7 +35,7 @@ page_sections:
   col_3:
     headline: 5% MARKETING
     slug: ''
-    content: <strong>BUSD+</strong> want's to be a long lasting token. That's why
-      we've got a marketing wallet, and a marketing plan. <img src="https://www.siteminder.com/wp-content/uploads/2017/01/MARKETING_STRATEGY_istock.jpg">
+    content: "<strong>BUSD+</strong> want's to be a long lasting token. That's why
+      we've got a marketing wallet, and a marketing plan. "
 
 ---

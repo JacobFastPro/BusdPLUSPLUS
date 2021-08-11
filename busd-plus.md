@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: BUSD PLUS
-date: 2021-08-11 01:06:00 +0000
+date: 2021-08-11T01:06:00.000+00:00
 page_sections:
 - template: navigation-header
   block: header-1
@@ -9,5 +9,17 @@ page_sections:
   navigation:
   - link: https://t.me/BUSDplus
     link_text: Telegram
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2021/08/11/busdblack.png"
+  headline: 'BUSD + '
+  content: CHANGE THE FUCKING NAME OF THE GAME HOLY SHITTT
+  image:
+    image: ''
+    alt_text: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 
 ---

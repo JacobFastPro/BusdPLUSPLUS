@@ -13,11 +13,6 @@ fields:
 - type: datetime
   name: date
   label: Date
-- name: ad
-  type: include
-  config: {}
-  template: c-p-r
-  label: ad
 - type: blocks
   name: page_sections
   label: Page Sections
@@ -36,6 +31,7 @@ fields:
   - signup-bar
   - simple-footer
   - 4-column-footer
+  - red
 pages:
 - busd-plus.md
 - index.md

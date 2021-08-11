@@ -13,7 +13,5 @@ defaults:
   values:
     layout: default
 plugins:
-- helaili/jekyll-action@2.2.0
-- Jekyll Actions
 - jekyll-feed
 - jekyll-menus

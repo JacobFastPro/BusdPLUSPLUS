@@ -29,7 +29,7 @@ page_sections:
   bgcolor: "#F12828"
 - template: detail-content
   block: text-1
-  headline: BUSD+
+  headline: ''
   content: "<h1>THE FUTURE IS NOW</h1><h3>BUSD+</h3><h5><strong>BUY BUSD+</strong></h5>"
 - template: 1-column-text
   block: one-column-1

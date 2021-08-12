@@ -30,7 +30,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: ''
-  content: "<h1>hi</h1>"
+  content: "<h2>Tokenomics</h2>"
   slug: ''
 - template: 3-column-text
   block: three-column-1

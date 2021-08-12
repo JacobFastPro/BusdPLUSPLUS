@@ -30,7 +30,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: ''
-  content: jo
+  content: "# Tokenomics"
   slug: jo
 - template: 3-column-text
   block: three-column-1
@@ -63,4 +63,4 @@ content: "<strong>BUSD+ BITCHBUSD+ BITCHBUSD+ BITCHBUSD+ BITCHBUSD+ BITCHBUSD+ B
   BITCHBUSD+ BITCH</strong>"
 
 ---
-**HI HI**
+# **HI HI**

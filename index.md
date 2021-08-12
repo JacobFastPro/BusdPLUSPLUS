@@ -31,11 +31,6 @@ page_sections:
   block: text-1
   headline: ''
   content: "<h1>THE FUTURE IS NOW</h1><h3>BUSD+</h3><h5><strong>BUY BUSD+</strong></h5>"
-- template: 1-column-text
-  block: one-column-1
-  headline: NOT IMPORTANT
-  content: AHHH
-  slug: ''
 - template: 3-column-text
   block: three-column-1
   col_1:

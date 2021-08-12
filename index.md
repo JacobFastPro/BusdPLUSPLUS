@@ -16,7 +16,7 @@ page_sections:
     button_text: Buy Now
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2021/08/12/busdhero-2x.png"
   headline: WHY IS THIS YELLOW
   content: THIS IS YELOW WHAT THE FUCK
   cta:

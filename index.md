@@ -26,6 +26,7 @@ page_sections:
   image:
     image: "/uploads/2021/08/12/busdherofinal-2x.png"
     alt_text: ''
+  bgcolor: "#F12828"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/08/12/busdlanding-2x.png"

@@ -1,6 +1,7 @@
 ---
 label: text-column
 hide_body: false
+display_field: content
 fields:
 - type: text
   name: headline
@@ -14,4 +15,4 @@ fields:
   config:
     wysiwyg: true
     schema:
-      format: markdown
+      format: html

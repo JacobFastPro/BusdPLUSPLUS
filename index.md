@@ -30,7 +30,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: ''
-  content: ''
+  content: jo
   slug: ''
 - template: 3-column-text
   block: three-column-1

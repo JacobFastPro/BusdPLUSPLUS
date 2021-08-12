@@ -69,9 +69,6 @@ page_sections:
   image_2:
     image: "/uploads/2021/08/12/busdhherowhite-2x.png"
     caption: ''
-- template: text-only-hero-banner
-  block: hero-1
-  heading: ''
 - template: simple-footer
   block: footer-1
   content: "<strong>2021 ®BUSD+</strong>"

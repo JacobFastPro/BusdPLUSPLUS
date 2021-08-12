@@ -11,6 +11,18 @@ page_sections:
     link_text: Chart
   - link: https://t.me/BUSDplus
     link_text: Telegram
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2021/08/11/busdlogo.png"
+  headline: WHY IS THIS YELLOW
+  content: THIS IS YELOW WHAT THE FUCK
+  cta:
+    url: google.com
+    button_text: fakebutton
+    enabled: true
+  image:
+    image: ''
+    alt_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right

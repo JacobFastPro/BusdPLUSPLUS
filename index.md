@@ -17,7 +17,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: ''
-  headline: "<strong>BUSD+</strong>"
+  headline: "<strong>EARN BUSD</strong>"
   content: Earn BUSD just by holding <strong>BUSD+</strong>
   cta:
     url: https://poocoin.app/

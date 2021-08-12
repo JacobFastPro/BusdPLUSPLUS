@@ -20,6 +20,12 @@ fields:
   - type: text
     name: alt_text
     label: Alt Text
+- name: bgcolor
+  type: color
+  config:
+    required: false
+    color_format: Hex
+  label: bgcolor
 - type: textarea
   name: headline
   label: Headline

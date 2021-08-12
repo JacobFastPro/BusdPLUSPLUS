@@ -30,7 +30,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: ''
-  content: "&lt;h1&gt;HI&lt;h1&gt;"
+  content: "<h1>hi</h1>"
   slug: ''
 - template: 3-column-text
   block: three-column-1

@@ -61,14 +61,6 @@ page_sections:
 - template: text-only-hero-banner
   block: hero-1
   heading: "<strong>BUSD+</strong>"
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2021/08/12/busdhero2-2x.png"
-    caption: ''
-  image_2:
-    image: "/uploads/2021/08/12/busdhherowhite-2x.png"
-    caption: ''
 - template: simple-footer
   block: footer-1
   content: "<strong>2021 ®BUSD+</strong>"

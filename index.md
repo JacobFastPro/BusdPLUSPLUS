@@ -44,9 +44,6 @@ page_sections:
     slug: ''
     content: "<strong>BUSD+</strong> want's to be a long lasting token. That's why
       we've got a marketing wallet, and a marketing plan. "
-- template: simple-footer
-  block: footer-1
-  content: ''
 - template: 2-column-media-element
   block: media-2
   image_1:
@@ -55,6 +52,9 @@ page_sections:
   image_2:
     image: ''
     caption: ''
+- template: simple-footer
+  block: footer-1
+  content: "<strong>2021 ®BUSD+</strong>"
 color: "#CA0000"
 headline: FUCK YOU!
 slug: ''

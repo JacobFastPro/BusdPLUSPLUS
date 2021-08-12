@@ -12,8 +12,8 @@ page_sections:
   - link: https://poocoin.app/
     link_text: Chart
   cta:
-    url: ''
-    button_text: ''
+    url: https://poocoin.app/
+    button_text: Buy Now
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"

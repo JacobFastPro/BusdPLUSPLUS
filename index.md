@@ -14,6 +14,11 @@ page_sections:
   cta:
     url: https://poocoin.app/
     button_text: Buy Now
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/08/12/busdlanding-2x.png"
+  slug: ''
+  caption: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: ''

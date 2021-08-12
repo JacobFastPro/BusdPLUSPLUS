@@ -24,7 +24,7 @@ page_sections:
     button_text: Chart
     enabled: true
   image:
-    image: "/uploads/2021/08/12/busdherofinal-2x.png"
+    image: "/uploads/2021/08/12/busdherofinal2-2x.png"
     alt_text: ''
 - template: full-width-media-element
   block: media-1

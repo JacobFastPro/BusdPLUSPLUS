@@ -27,6 +27,15 @@ page_sections:
     image: "/uploads/2021/08/12/busdherof-2x.png"
     alt_text: ''
   bgcolor: "#F12828"
+- template: detail-content
+  block: text-1
+  headline: BUSD+
+  content: "<h1>THE FUTURE IS NOW</h1><h3>BUSD+</h3><h5><strong>BUY BUSD+</strong></h5>"
+- template: 1-column-text
+  block: one-column-1
+  headline: NOT IMPORTANT
+  content: AHHH
+  slug: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -44,11 +53,6 @@ page_sections:
     slug: ''
     content: "<strong>BUSD+</strong> want's to be a long lasting token. That's why
       we've got a marketing wallet, and a marketing plan. "
-- template: 1-column-text
-  block: one-column-1
-  headline: NOT IMPORTANT
-  content: AHHH
-  slug: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left

@@ -16,7 +16,7 @@ page_sections:
     button_text: Buy Now
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2021/08/12/busdhero-2x.png"
+  background_image: ''
   headline: "<strong>BUSD+</strong>"
   content: Earn BUSD just by holding <strong>BUSD+</strong>
   cta:
@@ -24,17 +24,8 @@ page_sections:
     button_text: Chart
     enabled: true
   image:
-    image: ''
+    image: "/uploads/2021/08/12/busdhero-2x.png"
     alt_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  media:
-    image: "/uploads/2021/08/11/busdlogo.png"
-    alt_text: BUSD+
-  headline: "<strong>BUSD+</strong>"
-  slug: Busd+
-  content: "<strong>A rewards token.</strong>"
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -52,10 +43,6 @@ page_sections:
     slug: ''
     content: "<strong>BUSD+</strong> want's to be a long lasting token. That's why
       we've got a marketing wallet, and a marketing plan. "
-- template: detail-content
-  block: text-1
-  headline: BUSD+
-  content: "<p>BUSD+ BUSD+</p>"
 color: "#CA0000"
 headline: FUCK YOU!
 slug: ''

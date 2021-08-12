@@ -47,7 +47,7 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: ''
+    image: "/uploads/2021/08/12/busdhero2-2x.png"
     caption: ''
   image_2:
     image: ''

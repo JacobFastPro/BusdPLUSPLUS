@@ -16,7 +16,7 @@ page_sections:
     button_text: Chart
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2021/08/12/sphere.gif"
+  background_image: "/uploads/2021/08/12/output-onlinegiftools.gif"
   headline: "<strong>BUSD+<br></strong>Earn BUSD"
   content: Just hold <strong>BUSD+ </strong>and earn BUSD rewards.
   cta:

@@ -18,7 +18,7 @@ page_sections:
   block: hero-2
   background_image: ''
   headline: "<strong>EARN BUSD</strong>"
-  content: Earn BUSD just by holding <strong>BUSD+</strong>
+  content: Just hold <strong>BUSD+ </strong>and get back by BUSD rewards.
   cta:
     url: https://poocoin.app/
     button_text: Chart

@@ -50,7 +50,7 @@ page_sections:
     image: "/uploads/2021/08/12/busdhero2-2x.png"
     caption: ''
   image_2:
-    image: ''
+    image: "/uploads/2021/08/12/busdhherowhite-2x.png"
     caption: ''
 - template: simple-footer
   block: footer-1

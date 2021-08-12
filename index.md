@@ -24,7 +24,7 @@ page_sections:
     button_text: Chart
     enabled: true
   image:
-    image: "/uploads/2021/08/12/busdhero.png"
+    image: "/uploads/2021/08/12/busdhero2-2x.png"
     alt_text: ''
 - template: 3-column-text
   block: three-column-1

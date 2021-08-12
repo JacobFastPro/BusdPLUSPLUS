@@ -31,7 +31,7 @@ page_sections:
   block: one-column-1
   headline: ''
   content: "# Tokenomics"
-  slug: jo
+  slug: ''
 - template: 3-column-text
   block: three-column-1
   col_1:

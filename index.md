@@ -27,10 +27,11 @@ page_sections:
     image: "/uploads/2021/08/12/busdherof-2x.png"
     alt_text: ''
   bgcolor: "#F12828"
-- template: detail-content
-  block: text-1
+- template: 1-column-text
+  block: one-column-1
   headline: ''
-  content: "<h1>THE FUTURE IS NOW</h1><h3>BUSD+</h3><h5><strong>BUY BUSD+</strong></h5>"
+  content: ''
+  slug: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -79,3 +80,4 @@ content: "<strong>BUSD+ BITCHBUSD+ BITCHBUSD+ BITCHBUSD+ BITCHBUSD+ BITCHBUSD+ B
   BITCHBUSD+ BITCH</strong>"
 
 ---
+# TOKENOMICS

@@ -13,7 +13,7 @@ page_sections:
     link_text: Pancake
   cta:
     url: https://poocoin.app/
-    button_text: Buy Now
+    button_text: Chart
 - template: hero-banner-w-image
   block: hero-2
   background_image: ''

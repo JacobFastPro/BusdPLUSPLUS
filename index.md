@@ -64,6 +64,11 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: "<strong>2021 ®BUSD+</strong>"
+- template: 1-column-text
+  block: one-column-1
+  headline: NOT IMPORTANT
+  content: AHHH
+  slug: ''
 color: "#CA0000"
 headline: FUCK YOU!
 slug: ''

@@ -44,9 +44,6 @@ page_sections:
     slug: ''
     content: "<strong>BUSD+</strong> want's to be a long lasting token. That's why
       we've got a marketing wallet, and a marketing plan. "
-- template: text-only-hero-banner
-  block: hero-1
-  heading: "<strong>BUSD+</strong>"
 - template: simple-footer
   block: footer-1
   content: "<strong>2021 ®BUSD+</strong>"

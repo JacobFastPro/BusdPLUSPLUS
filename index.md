@@ -27,9 +27,6 @@ page_sections:
     image: "/uploads/2021/08/12/busdherof-2x.png"
     alt_text: ''
   bgcolor: "#F12828"
-- template: text-only-hero-banner
-  block: hero-1
-  heading: "<strong>BUSD+</strong>"
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -47,6 +44,9 @@ page_sections:
     slug: ''
     content: "<strong>BUSD+</strong> want's to be a long lasting token. That's why
       we've got a marketing wallet, and a marketing plan. "
+- template: text-only-hero-banner
+  block: hero-1
+  heading: "<strong>BUSD+</strong>"
 - template: simple-footer
   block: footer-1
   content: "<strong>2021 ®BUSD+</strong>"

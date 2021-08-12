@@ -3,14 +3,17 @@ layout: blocks
 title: BUSD+
 date: 2021-08-02 04:00:00 +0000
 page_sections:
-- template: navigation-header
-  block: header-1
+- template: navigation-header-w-button
+  block: header-2
   logo: "/uploads/2021/08/11/busdblack.png"
   navigation:
-  - link: https://poocoin.app/
-    link_text: Chart
   - link: https://t.me/BUSDplus
     link_text: Telegram
+  - link: https://poocoin.app/
+    link_text: Chart
+  cta:
+    url: ''
+    button_text: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"

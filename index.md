@@ -27,11 +27,6 @@ page_sections:
     image: "/uploads/2021/08/12/busdherof-2x.png"
     alt_text: ''
   bgcolor: "#F12828"
-- template: 1-column-text
-  block: one-column-1
-  headline: ''
-  content: "<h2>Tokenomics</h2>"
-  slug: ''
 - template: 3-column-text
   block: three-column-1
   col_1:

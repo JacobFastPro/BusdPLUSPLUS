@@ -16,7 +16,7 @@ page_sections:
     button_text: Buy Now
 - template: hero-banner-w-image
   block: hero-2
-  background_image: ''
+  background_image: "/uploads/2021/08/12/busdlanding-2x.png"
   headline: "<strong>EARN BUSD</strong>"
   content: Just hold <strong>BUSD+ </strong>and get back by BUSD rewards.
   cta:
@@ -24,7 +24,7 @@ page_sections:
     button_text: Chart
     enabled: true
   image:
-    image: "/uploads/2021/08/12/busdhherowhite-2x.png"
+    image: "/uploads/2021/08/12/busdlanding-2x.png"
     alt_text: ''
 - template: 3-column-text
   block: three-column-1

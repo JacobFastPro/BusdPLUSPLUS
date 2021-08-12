@@ -10,7 +10,7 @@ page_sections:
   - link: https://t.me/BUSDplus
     link_text: Telegram
   - link: https://poocoin.app/
-    link_text: Chart
+    link_text: Pancake
   cta:
     url: https://poocoin.app/
     button_text: Buy Now

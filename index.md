@@ -27,6 +27,9 @@ page_sections:
     image: "/uploads/2021/08/12/busdherof-2x.png"
     alt_text: ''
   bgcolor: "#F12828"
+- template: text-only-hero-banner
+  block: hero-1
+  heading: "<strong>BUSD+</strong>"
 - template: 3-column-text
   block: three-column-1
   col_1:

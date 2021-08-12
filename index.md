@@ -18,10 +18,10 @@ page_sections:
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   headline: "<strong>BUSD+</strong>"
-  content: THIS IS YELOW WHAT THE FUCK
+  content: Earn BUSD just by holding <strong>BUSD+</strong>
   cta:
-    url: google.com
-    button_text: fakebutton
+    url: https://poocoin.app/
+    button_text: Chart
     enabled: true
   image:
     image: "/uploads/2021/08/12/busdhero-2x.png"

@@ -24,14 +24,9 @@ page_sections:
     button_text: Chart
     enabled: true
   image:
-    image: "/uploads/2021/08/12/busdheroclean-2x.png"
+    image: "/uploads/2021/08/12/busdherofinal-2x.png"
     alt_text: ''
   bgcolor: "#F12828"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2021/08/12/busdlanding-2x.png"
-  slug: ''
-  caption: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -49,6 +44,17 @@ page_sections:
     slug: ''
     content: "<strong>BUSD+</strong> want's to be a long lasting token. That's why
       we've got a marketing wallet, and a marketing plan. "
+- template: simple-footer
+  block: footer-1
+  content: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: ''
+    caption: ''
+  image_2:
+    image: ''
+    caption: ''
 color: "#CA0000"
 headline: FUCK YOU!
 slug: ''

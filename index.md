@@ -44,6 +44,11 @@ page_sections:
     slug: ''
     content: "<strong>BUSD+</strong> want's to be a long lasting token. That's why
       we've got a marketing wallet, and a marketing plan. "
+- template: 1-column-text
+  block: one-column-1
+  headline: NOT IMPORTANT
+  content: AHHH
+  slug: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -53,6 +58,9 @@ page_sections:
   headline: "<strong>BUSD+</strong>"
   content: So amazing.
   slug: ''
+- template: text-only-hero-banner
+  block: hero-1
+  heading: "<strong>BUSD+</strong>"
 - template: 2-column-media-element
   block: media-2
   image_1:
@@ -61,17 +69,12 @@ page_sections:
   image_2:
     image: "/uploads/2021/08/12/busdhherowhite-2x.png"
     caption: ''
-- template: text-only-hero-banner
-  block: hero-1
-  heading: "<strong>BUSD+</strong>"
-- template: 1-column-text
-  block: one-column-1
-  headline: NOT IMPORTANT
-  content: AHHH
-  slug: ''
 - template: simple-footer
   block: footer-1
   content: "<strong>2021 ®BUSD+</strong>"
+- template: text-only-hero-banner
+  block: hero-1
+  heading: ''
 color: "#CA0000"
 headline: FUCK YOU!
 slug: ''
